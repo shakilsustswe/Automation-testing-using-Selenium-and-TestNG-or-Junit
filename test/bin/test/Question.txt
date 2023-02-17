@@ -1,0 +1,9 @@
+Perform the following automation testing using Selenium and TestNG (or Junit).
+
+1.Navigate to the following website https://www.saucedemo.com/
+2.Login to the system as "standard_user".
+3.Add the following product to the cart : Sauce Labs Backpack, Sauce Labs Fleece Jacket.
+4.Go to the "Your Cart" page by clicking on the cart icon on top right corner.
+5.Checkout to the next page. (CHECKOUT: YOUR INFORMATION)
+6.Fill the form and then click to the Continue button. 
+7.Finish the order.
